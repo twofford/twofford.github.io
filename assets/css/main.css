@@ -7,16 +7,14 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-.devicon-react-original, .iconify {
-	font-size: 6em;
-}
-
-.devicon-javascript-plain {
-	font-size: 6em;
-}
-
 .iconify {
-	color: #7749BE;
+	height: 88px;
+	width: 88px;
+}
+
+.devicon-express-original:before {
+	height: 88px;
+	width: 88px;
 }
 
 html, body, div, span, applet, object,
